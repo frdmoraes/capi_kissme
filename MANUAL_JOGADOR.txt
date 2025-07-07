@@ -1,0 +1,27 @@
+📘 Manual do Jogador - capi_kissme
+
+🔹 Use a tecla END para interagir com alguém próximo.
+
+Quando receber um pedido de beijo, você verá um menu com opções:
+
+💋 Aceitar Beijo  
+🛑 Recusar Beijo  
+🔪 Atacar o pretendente  
+😳 Ficar em silêncio  
+🎭 Fingir que não entendeu  
+💃 Convidar para dançar
+
+▶ Se aceitar dançar:
+- Com outro player: ambos iniciam dança sincronizada;
+- Com NPC: pode aceitar ou recusar dependendo da sorte.
+
+NPCs têm personalidades! Cuidado com reações indesejadas...
+
+Aproveite com moderação e estilo!
+
+🧍 Novidades v1.8 - Amizade e Furtos
+
+- 🫂 Abraçar NPC pode resultar em furto de carteira (chance de 70%);
+- 🤝 Apertar mãos de NPC pode furtar relógio;
+- Mas cuidado: se falhar, o NPC pode reagir com tapa ou agressão!
+
