@@ -16,7 +16,7 @@ server_scripts {
 }
 
 -- dependency 'vorp_menu' (usado somente com Vorp)
-dependency 'rsg-core'
+-- dependency 'rsg-core' -- habilite se usar RSG Core (opcional)
 
 files {
     'images/carteira_npc.png',
